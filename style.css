@@ -1,15 +1,3 @@
 body{
-    background-color: palevioletred;
-}
-
-.name_of_object{
- color:aliceblue;   
- background-color: blue;
-}
-
-#camera{
-    border: 2px dashed turquoise;
-    height: 300px;
-    width: 350px;
-
+    background-color: grey;
 }
